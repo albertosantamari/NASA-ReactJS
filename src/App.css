@@ -1,0 +1,64 @@
+#root {
+  max-width: 100vw;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 4rem;
+}
+
+.logo {
+  width: 65px;
+}
+
+#photo-date {
+  width: 230px;
+  height: 45px;
+  font-size: 2rem;
+  color: #003d92;
+  background-color: transparent;
+  border: 2px solid #ff1923;
+  border-radius: 10px;
+}
+
+.close {
+  width: 200px;
+  margin-top: 50px;
+  background-color: #ff1923;
+}
+
+.resize {
+  width: 200px;
+  margin-bottom: 50px;
+  background-color: #ff1923;
+}
+
+.details-bar {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #003d92;
+}
+
+.window-pane {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #003d92;
+}
+
+.dialog-text {
+  margin-top: 60px;
+}
+
+h2 {
+  color: #003d92;
+}
+
+h1 {
+  color: #003d92;
+}
+
+a {
+  color: #ff1923;
+}
